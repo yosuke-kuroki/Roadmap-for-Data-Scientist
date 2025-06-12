@@ -79,7 +79,6 @@ https://docs.python.org/release/3.12.0/
 
 
 ### 7. MLOPS (Machine Learning Operation)
-![image](https://github.com/krishnaik06/Perfect-Roadmap-To-Learn-Data-Science-In-2024/assets/20041231/9eca24f9-b684-4eba-af96-b107f774d19e)
 
 **Live MLOPS Playlist** : [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://github.com/features/actions) [![YouTube](https://www.youtube.com/watch?v=jpU8F0M5axo&list=PLmQAMKHKeLZ9iaLWBULDE_hiPtOiHiDz0)
 1. Github Action CI/CD pipelines [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://github.com/features/actions) [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=p7V4Aa7qEpw&list=PLZoTAELRMXVOjQdyqlCmOtq1nZnSsWvag&index=3)
@@ -129,28 +128,14 @@ https://docs.python.org/release/3.12.0/
 4. Live Generative AI Playlist: [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/watch?v=ajWheP8ZD70&list=PLmQAMKHKeLZ-iTT-E2kK9uePrJ1Xua9VL)
 
 
-### Open Source Contribution [![YouTube](https://img.shields.io/badge/documentaion-link-green)](https://github.com/krishnaik06/The-Grand-Complete-Data-Science-Materials)
-
 ## Use Of Chatgpt Or Google Bard Extensively 
-
-### Roadmap To Generative AI [![YouTube](https://img.shields.io/badge/documentaion-link-green)](https://github.com/krishnaik06/Roadmap-To-Learn-Generative-AI-In-2024)
 
 ## Internships:
 ![Red White Modern Youtube Thumbnail (2)](https://user-images.githubusercontent.com/20041231/211718275-abc43b47-b53d-40d7-a93c-24aceaa6bec8.jpg)
 
 iNeuron Internships: https://internship.ineuron.ai/
 
-## Data Science Tracker Sheet For Learning
-https://drive.google.com/file/d/18doA_wMja2nAawcE6imIcfnEMf-Pir2n/view
 
-## Youtube Channels For Referring All Videos. Consider Subscribing and pressing the bell icon.
-
-- Krish Naik : https://www.youtube.com/@krishnaik06
-- Krish Naik Hindi: https://www.youtube.com/@krishnaikhindi
-- Success Stories By Krish(Coming up): https://www.youtube.com/channel/UCNSHtBgZ3dhcpv190JrK_LQ
-- Support Channel and Join this channel to get access to perks: https://www.youtube.com/channel/UCNU_lfiiWBdtULKOw6X0Dig/join our Data Science Project
-- Instagram [![YouTube](https://img.shields.io/badge/Instagram-link-red)](https://instagram.com/krishnaik06)
-- Telegram  [![YouTube](https://img.shields.io/badge/Telegram-link-red)](https://t.me/+V0UeLG8ji-F8ThNb)
 
 
 
